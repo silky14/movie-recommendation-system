@@ -1,0 +1,5 @@
+# This file keeps the data/ directory in version control.
+# Place your TMDB dataset CSV files here after running setup.py
+# Required files:
+#   - data/tmdb_5000_movies.csv
+#   - data/tmdb_5000_credits.csv
