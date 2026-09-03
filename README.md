@@ -3,10 +3,9 @@
 A content-based movie recommendation system built with Machine Learning,
 using TF-IDF Vectorization and Cosine Similarity on the TMDB 5000 Movie Dataset.
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red?logo=streamlit)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
