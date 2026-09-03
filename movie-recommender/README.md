@@ -309,6 +309,4 @@ This project is licensed under the MIT License.
 
 Your Name — [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
----
 
-*Built as a portfolio project for ML internship applications.*
